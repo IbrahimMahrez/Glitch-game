@@ -59,8 +59,3 @@ GlitchShop/
 Made with ❤️ by **Ibrahim Mahrez**  
 Frontend Developer | Computer Science Student
 
----
-
-
-نسخ
-تحرير
